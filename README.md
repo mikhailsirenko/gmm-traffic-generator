@@ -1,0 +1,1 @@
+Exploring generative potential of Gaussian mixture model on metro traffic

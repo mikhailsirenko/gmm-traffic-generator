@@ -6,7 +6,10 @@ Exploring generative potential of Gaussian mixture models on metro traffic
 
 # Generated traffic
 Total entrances of 259 metro stations in Greater London
-![](animation.gif)
+<p align="center">
+  <img src="animation.gif" width="600">
+</p>
+
 
 Sample stations
 ![](sample_stations.png)
